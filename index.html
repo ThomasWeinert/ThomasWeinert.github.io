@@ -1,7 +1,70 @@
+<!DOCTYPE html>
 <html>
-  <head>
-    <title>Thomas Weinert</title>
-  </head>
-  <body>
-  </body>
+<head>
+  <title></title>
+  <link rel="stylesheet" type="text/css" href="symbols/css/fontello.css">
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="pageHeader clearfix">
+    <h1>Thomas Weinert</h1>
+    <ul class="navigation">
+      <li class="work"><a href="#work">Work</a></li>
+      <li class="projects"><a href="#projects">Projects</a></li>
+    </ul>
+  </div>
+  <section id="profiles" class="clearfix">
+     <ul>
+       <li><a href="http://www-a-basketful-of-papayas.net" class="icon-blogger" title="Blog"></a></li>
+       <li><a href="https://bitbucket.org/ThomasWeinert" class="icon-bitbucket" title="Bitbucket"></a></li>
+       <li><a href="https://github.com/ThomasWeinert" class="icon-github" title="Github"></a></li>
+       <li><a href="https://twitter.com/ThomasWeinert" class="icon-twitter-1" title="Twitter"></a></li>
+       <li><a href="http://plus.google.com/+ThomasWeinert" class="icon-gplus" title="Google Plus"></a></li>
+       <li><a href="http://www.linkedin.com/in/thomasweinert" class="icon-linkedin-1" title="LinkedIn"></a></li>
+       <li><a href="http://www.flickr.com/photos/thomasweinert" class="icon-flickr" title="Flickr"></a></li>
+       <li><a href="http://amazon.de/registry/wishlist/3LSV99WEK968S" class="icon-amazon" title="Amazon"></a></li>
+     </ul>
+  </section>
+  <section id="work" class="clearfix">
+    <h2>Work</h2>
+    <p>
+      <img src="images/thumbnail-papaya.png" alt="" width="250" height="149" style="float: right;"/>
+      I work for the <a href="http://www.dimensional.de">dimensional GmbH</a> in Cologne as the lead developer for
+      <a href="http://www.papaya-cms.com">papaya CMS</a>. This is an Open Source CMS written in PHP using XSLT
+      templates.
+    </p>
+  </section>
+  <section id="projects" class="clearfix">
+    <h2>Projects</h2>
+    <p>This is only a selection, you can find more projects on my GitHub and Bitbucket accounts.</p>
+    <h3>
+      Carica
+      <a href="https://bitbucket.org/ThomasWeinert/carica-io">Io</a>,
+      <a href="https://bitbucket.org/ThomasWeinert/carica-firmata">Firmata</a>,
+      <a href="https://bitbucket.org/ThomasWeinert/carica-chip">Chip</a>
+    </h3>
+    <p>
+      <img src="images/carica-leaf.svg" width="80" height="80" style="float: right; margin: 0 0 1em 1em;"/>
+      Three projects that allow to control an Arduino from PHP. Carica Io provides the needed Non-Blocking I/O
+      libraries. Carica Firmata implements the communication protocol and an OOP API for the pins. Carica Chip
+      is a set of device classes, like a class "Motor" with a method "setSpeed()".
+    </p>
+    <h3>Carica <a href="https://bitbucket.org/ThomasWeinert/carica-chip">Status Monitor</a></h3>
+    <p>
+      Basically an Atom-Reader implemented in Javascript and a small framework to provide the feeds in PHP. It
+      allows you to set up a wall monitor with data about your company. At dimensional we use it to show the build
+      status of projects, latest commits, upcoming launches and other stuff near the coffee machine.
+    </p>
+    <h3>Weaverslave</h3>
+    <p>
+      An editor I wrote in Delphi years ago. Since then my focus has shifted. It would be near impossible to
+      get the core to support unicode properly. I still use it sometimes and I know others do, too. So here you can
+      download the last version.
+    </p>
+    <p style="text-align: center;">
+      <a href="downloads/ws_3_9_19_0.exe" class="icon-download">Installer</a>
+      <a href="downloads/ws_3_9_19_0.zip" class="icon-box">Zip Archive</a>
+    </p>
+  </section>
+</body>
 </html>
