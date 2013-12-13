@@ -3,6 +3,7 @@ body {
   background-attachment: fixed;
   background-size: 40px auto;
   font-family: sans-serif;
+  padding: 2em;
 }
 a {
   color: #204a87;
@@ -10,14 +11,14 @@ a {
 
 .pageHeader, section {
   min-width: 450px;
-  max-width: 700px;
+  max-width: 760px;
 }
 
 .pageHeader {
   border: 1px solid black;
   background: black;
   color: rgba(255, 255, 255, 0.8);
-  margin: 2em auto 0 auto;
+  margin: 0 auto 0 auto;
   font-size: 2em;
   background: linear-gradient(rgba(40, 40, 40, 1), rgba(0, 0, 0, 1));
 }
@@ -130,6 +131,7 @@ section#slides h2 {
 
 [class^="icon-"]:before, [class*=" icon-"]:before {
   text-decoration: none;
+  padding-right: 0.1em;
 }
 
 .clearfix:before,
