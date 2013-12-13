@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to dissemminate information to anyone interested in their software products.  To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+		<MASTER_PAD_EDITOR>DeuPAD 2.0.0.47 (http://www.deupad.org)</MASTER_PAD_EDITOR>
+		<MASTER_PAD_VERSION>2.01</MASTER_PAD_VERSION>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Thomas Weinert</Company_Name>
+		<Address_1>Gereonswall 33</Address_1>
+		<Address_2/>
+		<City_Town>Köln</City_Town>
+		<State_Province/>
+		<Zip_Postal_Code>50670</Zip_Postal_Code>
+		<Country>Deutschland</Country>
+		<Company_WebSite_URL>http://www.weinert.info/</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Thomas</Author_First_Name>
+			<Author_Last_Name>Weinert</Author_Last_Name>
+			<Author_Email>thomas@weinert.info</Author_Email>
+			<Contact_First_Name>Thomas</Contact_First_Name>
+			<Contact_Last_Name>Weinert</Contact_Last_Name>
+			<Contact_Email>thomas@weinert.info</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>thomas@weinert.info</Sales_Email>
+			<Support_Email>thomas@weinert.info</Support_Email>
+			<General_Email>thomas@weinert.info</General_Email>
+			<Sales_Phone/>
+			<Support_Phone/>
+			<General_Phone/>
+			<Fax_Phone/>
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Weaverslave</Program_Name>
+		<Program_Version>3.9.19</Program_Version>
+		<Program_Release_Month>12</Program_Release_Month>
+		<Program_Release_Day>07</Program_Release_Day>
+		<Program_Release_Year>2005</Program_Release_Year>
+		<Program_Cost_Dollars>0.00</Program_Cost_Dollars>
+		<Program_Cost_Other>0.00</Program_Cost_Other>
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>Beta</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win95,Win98,WinME,WinNT 4.x,WinXP,Windows2000</Program_OS_Support>
+		<Program_Language>English,German</Program_Language>
+		<Program_Change_Info># new template dialog/popups shows file profile icons
+# updated function reference to PHP 4.4.1 and 5.1.1
+# added fontsize submenu to options menu
+# added module constants to PHP functable
+# added superglobals to PHP highlighting
+# replaced shell controls
+# ...</Program_Change_Info>
+		<Program_System_Requirements/>
+		<Program_Specific_Category>Internet</Program_Specific_Category>
+		<Program_Categories>Internet</Program_Categories>
+		<File_Info>
+			<Filename_Versioned>ws_3_9_19_0.exe</Filename_Versioned>
+			<Filename_Previous>ws_3_9_18_2.exe</Filename_Previous>
+			<Filename_Generic>wsbeta.exe</Filename_Generic>
+			<Filename_Long>weaverslave.exe</Filename_Long>
+      <File_Size_MB>2.3</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count>0</Expire_Count>
+			<Expire_Based_On/>
+			<Expire_Other_Info/>
+			<Expire_Month/>
+			<Expire_Day/>
+			<Expire_Year/>
+		</Expire_Info>
+		<Includes_JAVA_VM>N</Includes_JAVA_VM>
+		<Includes_VB_Runtime>N</Includes_VB_Runtime>
+		<Includes_DirectX>N</Includes_DirectX>
+		<Program_Cost_Other_Code/>
+		<Program_Category_Class>Development::Source Editors</Program_Category_Class>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>html, xhtml, dhtml, xml, javascript, php, sql, editor, source</Keywords>
+			<Char_Desc_45>flexible webeditor for html, php, xml, ...</Char_Desc_45>
+			<Char_Desc_80>The Weaverslave is a flexible editor for many web related text formats.</Char_Desc_80>
+			<Char_Desc_250>The Weaverslave is a flexible editor. You can insert Tags or other text snippets from menu or a tool window. Get Help for HTML tags and PHP functions</Char_Desc_250>
+			<Char_Desc_450>The Weaverslave is a flexible editor for several web related formats. The program has file profiles for DHTML, CSS, JS, PHP, MySQL, Perl and other. Toolwindows for Colors, Entities, a TagInspector and other tools, a file and imagebrowser and an extensive search and replace functions are integrated. CVS-Client and PHP debugger for professional users are avaliable, too.</Char_Desc_450>
+			<Char_Desc_2000>The Weaverslave is a flexible editor. You can insert HTMLtags or other text snippets from menu or a tool window. The text snippets can be change with a dialog. Tool windows for colors, entites and a taginspector are avaliable. File an image browser are integrated, too. The editor has syntax highlighting for DHTML, PHP and SQL. You can add functions with plugins. Integreated preview with ie and gecko. Some function for jpeg manipulation are included, too.</Char_Desc_2000>
+		</English>
+		<German>
+			<Keywords>html, xhtml, dhtml, xml, javascript, php, sql, editor, source</Keywords>
+			<Char_Desc_45>Flexibler Webeditor  für html, php, xml, ...</Char_Desc_45>
+			<Char_Desc_80>Flexibler Quelltexteditor für HTML, PHP, SQL und weitere Sprachen</Char_Desc_80>
+			<Char_Desc_250>Der Weaverslave ist ein flexibler Editor für verschiedene Sprachen. Das Programm besitzt Syntaxhighlightings für DHTML, CSS, JS, PHP, MySQL, Perl und weitere Sprachen. Besonders für HTML und PHP sind viele Funktionen integriert.</Char_Desc_250>
+			<Char_Desc_450>Der Weaverslave ist ein flexibler Editor für verschiedene Sprachen. Das Programm besitzt Syntaxhighlightings für DHTML, CSS, JS, PHP, MySQL, Perl und weitere Sprachen. Neben verschiedenen Toolfenstern für Farben, Sonderzeichen, einem TagInspektor und anderem,sind ein Datei- und Bildbrowser, sowie eine umfangreiche Suchfunktion integriert. Ein einfacher CVS-Client und eine Debugger-Interface für PHP stehen ebenfalls zur Verfügung.</Char_Desc_450>
+			<Char_Desc_2000>Der Weaverslave ist ein flexibler Editor für verschiedene Sprachen. Das Programm besitzt Syntaxhighlightings für DHTML, CSS, JS, PHP, MySQL, Perl und weitere Sprachen. Neben verschiedenen Toolfenstern für Farben, Sonderzeichen, einem TagInspektor und anderem,sind ein Datei- und Bildbrowser, sowie eine umfangreiche Suchfunktion integriert. Die Suchfunktion funktioniert dabei auf einzelnen Dokumenten ebendso, wie auf ganzen Verzeichnissen. Man kann nach einfachen oder mehrzeiligen Texten suchen oder PCRE einsetzen. Die Suchfunktion arbeitet interaktiv - das Suchergebnis paßt sich dynamsich Textänderungen an. Man kann einzelne Treffer im Suchergebnis prüfen, entfernen oder ersetzen. Für die interne Vorschau lassen sich MSIE und Gecko (Mozilla) einbinden. Dabei kann der Editor automatisch Pfade in URLs umwandeln und somit die Seiten über einen Webserver aufrufen. Das Syntaxhighlighting für PHP kann auf die verwendete PHP-Version und die installierten Module abgestimmt werden. Zum Debuggen der PHP-Scripte läßt sich Xdebug einbinden. Externe Browser und Programme können in beliebiger Menge angegeben werden. Damit man nicht immer das große Bildbearbeitungsprogramm starten muss, besitzt das Programm einige Funktionen zum Bearbeiten von JPEG-Bildern.  Weitere Funktionen lassen sich über die Pluginschnittstelle und das Activescript-Interface hinzufügen.</Char_Desc_2000>
+		</German>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://thomas.weinert.info</Application_Info_URL>
+			<Application_Order_URL>http://thomas.weinert.info</Application_Order_URL>
+			<Application_Screenshot_URL>http://thomas.weinert.info/downloads/ws/screenshot.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://thomas.weinert.info/downloads/ws/icon.gif</Application_Icon_URL>
+			<Application_XML_File_URL>http://thomas.weinert.info/pad/weaverslave.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://thomas.weinert.info/downloads/ws_3_9_19_0.exe</Primary_Download_URL>
+			<Secondary_Download_URL/>
+			<Additional_Download_URL_1/>
+			<Additional_Download_URL_2/>
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>You can make copies and redistribute the program online and offline without restrictions. You can redistribute the Program with your own modfied configuration, but you need to document the modifications.</Distribution_Permissions>
+		<EULA>Weaverslave 4
+Copyright (c) 1999-2004 by Thomas Weinert (Author)
+All rights reserved
+
+
+
+WEAVERSLAVE VERSION 4 END-USER LICENSE AGREEMENT
+
+
+IMPORTANT-READ CAREFULLY: This Weaverslave End-User License Agreement
+("EULA") is a legal agreement between you (either an individual or
+a single entity) and the Author of the SOFTWARE identified above.
+
+
+
+1. GRANT OF LICENSE.  The Author grants you a limited, non-exclusive,
+non-transferable, royalty-free license to use the executable code of
+the SOFTWARE on your computer as long as the terms of this agreement
+are respected.
+
+2. DISTRIBUTION.  You are hereby licensed to make copies of the
+SOFTWARE as you wish; give exact copies of the original SOFTWARE to
+anyone; and distribute the SOFTWARE in its unmodified form via
+electronic means (Internet, BBS's, Shareware distribution libraries,
+CD-ROMs, etc.). You may charge a distribution fee for the package,
+but you must not represent in any way that you are selling the
+SOFTWARE itself. Your distribution of the SOFTWARE will not entitle
+you to any compensation from the Auhtor.  You must distribute a copy
+of this EULA with any copy of the SOFTWARE and anyone to whom you
+distribute the SOFTWARE is subject to this EULA.
+
+3. MAINTENANCE. The Author is not obligated  to  provide maintenance
+or updates for the SOFTWARE. However,  any  maintenance  or updates
+provided by The Author shall be covered by this Agreement.
+
+4. TERMINATION. Without prejudice to any other rights, the Auhtor may
+terminate this EULA if you fail to comply with the terms and
+conditions of this EULA. In such event, you must destroy all copies
+of the SOFTWARE.
+
+5. COPYRIGHT. The SOFTWARE is protected by copyright laws and
+international treaty provisions. You acknowledge that no title to the
+intellectual property in the SOFTWARE is transferred to you. You
+further acknowledge that title and full ownership rights to the
+SOFTWARE will remain the exclusive property of the Auhtor and you
+will not acquire any rights to the SOFTWARE except as expressly set
+forth in this license. You agree that any copies of the SOFTWARE
+will contain the same proprietary notices which appear on and in the
+SOFTWARE.
+
+6. WARRANTIES.
+THE AUTHOR EXPRESSLY DISCLAIMS ANY WARRANTY FOR THE
+SOFTWARE. THE SOFTWARE AND ANY RELATED DOCUMENTATION IS
+PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER
+EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THE
+IMPLIED WARRANTIES OR MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, OR NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.</EULA>
+	</Permissions>
+	<Download32>
+		<Download32_FORM>Y</Download32_FORM>
+		<Download32_ProgramID>30225</Download32_ProgramID>
+		<Download32_CompanyID>9598</Download32_CompanyID>
+		<Download32_URL>http://www.download32.com/proghtml/302/30225.htm</Download32_URL>
+		<Download32_Generator_Version>1.00</Download32_Generator_Version>
+	</Download32>
+	<DeuPAD>
+		<SAVE_Member>N</SAVE_Member>
+		<SAVE_Member_Number/>
+		<Company_Unique_ID>{0508EF20-9631-11D5-A0A8-0040C77AFEA5}</Company_Unique_ID>
+		<Save_Prog_Num/>
+		<Program_Cost_EUR>0.00</Program_Cost_EUR>
+		<Program_Cost_DEM>0,00</Program_Cost_DEM>
+		<Program_Unique_ID>{1D4BF7F0-9BA0-11D5-A0A8-0040C77AFEA5}</Program_Unique_ID>
+		<Program_Categories_German>Internet</Program_Categories_German>
+		<Program_System_Requirements_German/>
+		<Expire_Other_Info_German/>
+		<EULA_German/>
+		<Program_Change_Info_German/>
+		<DeuPAD_Extension_Version>2.00</DeuPAD_Extension_Version>
+		<DeuPAD_Extension_Info>For information on the DeuPAD Extensions please go to http://www.deupad.org</DeuPAD_Extension_Info>
+	</DeuPAD>
+	<ASP>
+		<ASP_FORM>Y</ASP_FORM>
+		<ASP_Member>N</ASP_Member>
+		<ASP_Member_Number/>
+	</ASP>
+	<MSN>
+		<MSN_FORM>Y</MSN_FORM>
+		<MSN_IS_32bit>Y</MSN_IS_32bit>
+	</MSN>
+	<ZDNET>
+		<ZDNET_FORM>Y</ZDNET_FORM>
+		<ZDNET_Product_ID_Code/>
+	</ZDNET>
+	<Affiliates>
+		<Affiliates_FORM>Y</Affiliates_FORM>
+		<Affiliates_VERSION>1.0</Affiliates_VERSION>
+		<Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
+		<Affiliates_Information_Page/>
+		<Affiliates_BMTMicro_Order_Page/>
+		<Affiliates_BMTMicro_Vendor_ID/>
+		<Affiliates_BMTMicro_Product_ID/>
+		<Affiliates_BMTMicro_Maximum_Commission_Rate/>
+		<Affiliates_DigiBuy_Order_Page/>
+		<Affiliates_DigiBuy_Vendor_ID/>
+		<Affiliates_DigiBuy_Product_ID/>
+		<Affiliates_DigiBuy_Maximum_Commission_Rate/>
+		<Affiliates_DigitalCandle_Order_Page/>
+		<Affiliates_DigitalCandle_Vendor_ID/>
+		<Affiliates_DigitalCandle_Product_ID/>
+		<Affiliates_DigitalCandle_Maximum_Commission_Rate/>
+		<Affiliates_Emetrix_Order_Page/>
+		<Affiliates_Emetrix_Vendor_ID/>
+		<Affiliates_Emetrix_Product_ID/>
+		<Affiliates_Emetrix_Maximum_Commission_Rate/>
+		<Affiliates_eSellerate_Order_Page/>
+		<Affiliates_eSellerate_Vendor_ID/>
+		<Affiliates_eSellerate_Product_ID/>
+		<Affiliates_eSellerate_Maximum_Commission_Rate/>
+		<Affiliates_Kagi_Order_Page/>
+		<Affiliates_Kagi_Vendor_ID/>
+		<Affiliates_Kagi_Product_ID/>
+		<Affiliates_Kagi_Maximum_Commission_Rate/>
+		<Affiliates_NorthStarSol_Order_Page/>
+		<Affiliates_NorthStarSol_Vendor_ID/>
+		<Affiliates_NorthStarSol_Product_ID/>
+		<Affiliates_NorthStarSol_Maximum_Commission_Rate/>
+		<Affiliates_Order1_Order_Page/>
+		<Affiliates_Order1_Vendor_ID/>
+		<Affiliates_Order1_Product_ID/>
+		<Affiliates_Order1_Maximum_Commission_Rate/>
+		<Affiliates_Osolis_Order_Page/>
+		<Affiliates_Osolis_Vendor_ID/>
+		<Affiliates_Osolis_Product_ID/>
+		<Affiliates_Osolis_Maximum_Commission_Rate/>
+		<Affiliates_Regnet_Order_Page/>
+		<Affiliates_Regnet_Vendor_ID/>
+		<Affiliates_Regnet_Product_ID/>
+		<Affiliates_Regnet_Maximum_Commission_Rate/>
+		<Affiliates_Regnow_Order_Page/>
+		<Affiliates_Regnow_Vendor_ID/>
+		<Affiliates_Regnow_Product_ID/>
+		<Affiliates_Regnow_Maximum_Commission_Rate/>
+		<Affiliates_Regsoft_Order_Page/>
+		<Affiliates_Regsoft_Vendor_ID/>
+		<Affiliates_Regsoft_Product_ID/>
+		<Affiliates_Regsoft_Maximum_Commission_Rate/>
+		<Affiliates_ShareIt_Order_Page/>
+		<Affiliates_ShareIt_Vendor_ID/>
+		<Affiliates_ShareIt_Product_ID/>
+		<Affiliates_ShareIt_Maximum_Commission_Rate/>
+		<Affiliates_SWReg_Order_Page/>
+		<Affiliates_SWReg_Vendor_ID/>
+		<Affiliates_SWReg_Product_ID/>
+		<Affiliates_SWReg_Maximum_Commission_Rate/>
+		<Affiliates_V-Share_Order_Page/>
+		<Affiliates_V-Share_Vendor_ID/>
+		<Affiliates_V-Share_Product_ID/>
+		<Affiliates_V-Share_Maximum_Commission_Rate/>
+		<Affiliates_VFree_Order_Page/>
+		<Affiliates_VFree_Vendor_ID/>
+		<Affiliates_VFree_Product_ID/>
+		<Affiliates_VFree_Maximum_Commission_Rate/>
+		<Affiliates_Yaskifo_Order_Page/>
+		<Affiliates_Yaskifo_Vendor_ID/>
+		<Affiliates_Yaskifo_Product_ID/>
+		<Affiliates_Yaskifo_Maximum_Commission_Rate/>
+	</Affiliates>
+</XML_DIZ_INFO>
