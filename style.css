@@ -1,5 +1,6 @@
 body {
   background: black url(images/wabe.svg) repeat;
+  background-attachment: fixed;
   background-size: 40px auto;
   font-family: sans-serif;
 }
