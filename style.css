@@ -71,6 +71,7 @@ section p {
 
 section#profiles {
   border-top: 1px solid #202020;
+  border-bottom: none;
   background: linear-gradient(rgba(0, 0, 0, 1), rgba(40, 40, 40, 1));
 }
 section#profiles ul {
@@ -97,12 +98,16 @@ section#profiles ul li a:focus {
 section h2 {
   margin: 0;
   padding: 0.3em;
-  font-size: 1.2em;
+  font-size: 1.6em;
   background: linear-gradient(rgba(40, 40, 40, 1), rgba(0, 0, 0, 1));
 }
 section h3 {
   margin: 0;
   padding: 1em 1em 0 0.8em;
+}
+
+section#work {
+  border-bottom: none;
 }
 section#work h2 {
   color: #4e9a06;
