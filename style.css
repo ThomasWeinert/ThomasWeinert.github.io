@@ -128,6 +128,13 @@ section#projects h2 {
 section#projects a {
   color: #3465a4;
 }
+section#error h2 {
+  color: #cc0000;
+  border-left: 4px solid #CC0000;
+}
+section#error a {
+  color: #cc0000;
+}
 section#slides h2 {
   color: #75507b;
   border-left: 4px solid #75507b;
