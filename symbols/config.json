@@ -35,6 +35,18 @@
       ]
     },
     {
+      "uid": "9a76bc135eac17d2c8b8ad4a5774fc87",
+      "css": "download",
+      "code": 59406,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "04ff8d6592fe548b332b27ed87ce397a",
+      "css": "box",
+      "code": 59407,
+      "src": "fontawesome"
+    },
+    {
       "uid": "e566d3f1d24f22981f6552d5188e7265",
       "css": "gplus",
       "code": 59403,
