@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/thomasweinert
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thomas.weinert.info
+  * I am thomasweinert (https://keybase.io/thomasweinert) on keybase.
+  * I have a public key with fingerprint 1BFB 7FB6 F47D 0300 6648  E53E 9AD2 AD10 EB2E 738F
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1bfb7fb6f47d03006648e53e9ad2ad10eb2e738f",
+            "host": "keybase.io",
+            "key_id": "9ad2ad10eb2e738f",
+            "uid": "08b8708a4032639a84241ae10b6bad00",
+            "username": "thomasweinert"
+        },
+        "service": {
+            "hostname": "thomas.weinert.info",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1402946300,
+    "expire_in": 157680000,
+    "prev": "dfb245c6a16bd19eac556ae62a896b32c510bdb99ab5d7b837aebdb993bc4735",
+    "seqno": 2,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.22
+Comment: https://keybase.io/crypto
+
+yMHyAnicbZFfSFR5FMdnHLWdwciXyM3N2rtKIuN4//+ZEVxaCFLcUosipx1/v7m/
+mbmk9053rtowTOkuCCblFqmhofTgRiBEqA/WCpPJqEjsy8r2oGSMD7UPgktMrOiO
+vzvYw0L35XLO+Xy/5/zOmT9oszisa5/qu+w5bxusy4nddkvT2KmdGAE1OUq4Y8RV
+lP0FFDWI9LCuqAbhJigYgEIA8gFWkEmGJHmeFRHHIAnINJApEkEaCYwYIJxESIuY
+CmwDQQS5FA3ncOBTZJz9At+eLZAiFAVSBCzJ0DwjAZGlWQogioQ8BDJJmmAE6Spo
+Q5g2QlobiHQiRUW6QcSdBC51KH5cimX7/w9z7XMuRQ2Yw4R1zdD8WisGQoYRdpt6
+Ixo2BZ0I+vatfFBRZbwDLOhAekTRVMJNYdJvKKY3xZK0xPJ4FU4CXQ8rOvIpJsEJ
+vEjiz2yDOrClHIA0y/l5QPFQpiQE/BzHA8TTQJR4yNB+Dr9RhpIEICcLUGQEgLIx
+A/2swHC4fwRdUzXCTeMxQRBbRpSgCox2HRHxuYQ312J1WPLzcswrWhz2ws+3PbN0
+IBNfKz/3gLtRNNLsPVyeSqyvfpRv96f/SP77YuSvx6EkP/7j+5+L55xKavZOrMTz
+VX5Nunh66Ht349Lkf4m/N7cGD+VFTzoa5uPrTzPf1EhM66KjtOpCaiXoOZuafDV/
+EeZPo6GqWEHuwt1d48R23/BzFK+beXKl50NldXLuSP/MP56WKdvYs5ra2h+6Gy+9
+G33ort5oTqpUfUXJMdvr3wdXesme2Y3uhbzo/Whv2HiEasfFlYn0cXvZqvd0o/fy
+dldmYatu4Oukje/bvFlYuHy04tYvvy1V2wt+tTbRlekW9rufzr903BsezZ0qo1ZL
+J/50ZXYGitJvPIuLm9S38h4emBkB
+=2Hf+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thomasweinert
+
+==================================================================
