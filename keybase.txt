@@ -6,56 +6,46 @@ I hereby claim:
 
   * I am an admin of http://thomas.weinert.info
   * I am thomasweinert (https://keybase.io/thomasweinert) on keybase.
-  * I have a public key with fingerprint 1BFB 7FB6 F47D 0300 6648  E53E 9AD2 AD10 EB2E 738F
+  * I have a public key ASBwbCBQ_ZVJ6zqKiD0Bb3WkLLf4Rz6VObXll9dMYggZXwo
 
-To claim this, I am signing this object:
+To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "fingerprint": "1bfb7fb6f47d03006648e53e9ad2ad10eb2e738f",
-            "host": "keybase.io",
-            "key_id": "9ad2ad10eb2e738f",
-            "uid": "08b8708a4032639a84241ae10b6bad00",
-            "username": "thomasweinert"
-        },
-        "service": {
-            "hostname": "thomas.weinert.info",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "0120706c2050fd9549eb3a8a883d016f75a42cb7f8473e9539b5e597d74c6208195f0a",
+      "host": "keybase.io",
+      "kid": "0120706c2050fd9549eb3a8a883d016f75a42cb7f8473e9539b5e597d74c6208195f0a",
+      "uid": "08b8708a4032639a84241ae10b6bad00",
+      "username": "thomasweinert"
     },
-    "ctime": 1402946300,
-    "expire_in": 157680000,
-    "prev": "dfb245c6a16bd19eac556ae62a896b32c510bdb99ab5d7b837aebdb993bc4735",
-    "seqno": 2,
-    "tag": "signature"
+    "merkle_root": {
+      "ctime": 1508061351,
+      "hash": "8ed3c647b964e8a07164134405f606602f36748cf012e48834bb8f32a8c499c70267628a6503e136cc6bec1f4ab66995f78179b3b34de767bb33e20536850d05",
+      "hash_meta": "b40ed978297d84d1d8e49eeb0e0b3cd20cab10a999021a8e461ece2fa9c82dc7",
+      "seqno": 1580400
+    },
+    "service": {
+      "hostname": "thomas.weinert.info",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1508061383,
+  "expire_in": 504576000,
+  "prev": "0c38477ab0a003a6d1e675c72011c0f08c89cb09913ba0e99e778ef6588c3448",
+  "seqno": 14,
+  "tag": "signature"
 }
 
-with the aforementioned key, yielding the PGP signature:
+which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v0.1.22
-Comment: https://keybase.io/crypto
-
-yMHyAnicbZFfSFR5FMdnHLWdwciXyM3N2rtKIuN4//+ZEVxaCFLcUosipx1/v7m/
-mbmk9053rtowTOkuCCblFqmhofTgRiBEqA/WCpPJqEjsy8r2oGSMD7UPgktMrOiO
-vzvYw0L35XLO+Xy/5/zOmT9oszisa5/qu+w5bxusy4nddkvT2KmdGAE1OUq4Y8RV
-lP0FFDWI9LCuqAbhJigYgEIA8gFWkEmGJHmeFRHHIAnINJApEkEaCYwYIJxESIuY
-CmwDQQS5FA3ncOBTZJz9At+eLZAiFAVSBCzJ0DwjAZGlWQogioQ8BDJJmmAE6Spo
-Q5g2QlobiHQiRUW6QcSdBC51KH5cimX7/w9z7XMuRQ2Yw4R1zdD8WisGQoYRdpt6
-Ixo2BZ0I+vatfFBRZbwDLOhAekTRVMJNYdJvKKY3xZK0xPJ4FU4CXQ8rOvIpJsEJ
-vEjiz2yDOrClHIA0y/l5QPFQpiQE/BzHA8TTQJR4yNB+Dr9RhpIEICcLUGQEgLIx
-A/2swHC4fwRdUzXCTeMxQRBbRpSgCox2HRHxuYQ312J1WPLzcswrWhz2ws+3PbN0
-IBNfKz/3gLtRNNLsPVyeSqyvfpRv96f/SP77YuSvx6EkP/7j+5+L55xKavZOrMTz
-VX5Nunh66Ht349Lkf4m/N7cGD+VFTzoa5uPrTzPf1EhM66KjtOpCaiXoOZuafDV/
-EeZPo6GqWEHuwt1d48R23/BzFK+beXKl50NldXLuSP/MP56WKdvYs5ra2h+6Gy+9
-G33ort5oTqpUfUXJMdvr3wdXesme2Y3uhbzo/Whv2HiEasfFlYn0cXvZqvd0o/fy
-dldmYatu4Oukje/bvFlYuHy04tYvvy1V2wt+tTbRlekW9rufzr903BsezZ0qo1ZL
-J/50ZXYGitJvPIuLm9S38h4emBkB
-=2Hf+
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcGwgUP2VSes6iog9AW91pCy3+Ec+lTm15ZfXTGIIGV8Kp3BheWxvYWTFA1B7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNzA2YzIwNTBmZDk1NDllYjNhOGE4ODNkMDE2Zjc1YTQyY2I3Zjg0NzNlOTUzOWI1ZTU5N2Q3NGM2MjA4MTk1ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzA2YzIwNTBmZDk1NDllYjNhOGE4ODNkMDE2Zjc1YTQyY2I3Zjg0NzNlOTUzOWI1ZTU5N2Q3NGM2MjA4MTk1ZjBhIiwidWlkIjoiMDhiODcwOGE0MDMyNjM5YTg0MjQxYWUxMGI2YmFkMDAiLCJ1c2VybmFtZSI6InRob21hc3dlaW5lcnQifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDgwNjEzNTEsImhhc2giOiI4ZWQzYzY0N2I5NjRlOGEwNzE2NDEzNDQwNWY2MDY2MDJmMzY3NDhjZjAxMmU0ODgzNGJiOGYzMmE4YzQ5OWM3MDI2NzYyOGE2NTAzZTEzNmNjNmJlYzFmNGFiNjY5OTVmNzgxNzliM2IzNGRlNzY3YmIzM2UyMDUzNjg1MGQwNSIsImhhc2hfbWV0YSI6ImI0MGVkOTc4Mjk3ZDg0ZDFkOGU0OWVlYjBlMGIzY2QyMGNhYjEwYTk5OTAyMWE4ZTQ2MWVjZTJmYTljODJkYzciLCJzZXFubyI6MTU4MDQwMH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ0aG9tYXMud2VpbmVydC5pbmZvIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zMyJ9LCJjdGltZSI6MTUwODA2MTM4MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIwYzM4NDc3YWIwYTAwM2E2ZDFlNjc1YzcyMDExYzBmMDhjODljYjA5OTEzYmEwZTk5ZTc3OGVmNjU4OGMzNDQ4Iiwic2Vxbm8iOjE0LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQMSLs0Gc3KCOIiwio6IElpZ5O8FD76oq1PoeMUldUWspdCQE/Uj1eq7nWVjS31MmNOqnUQdWM8RcoVj+jFh0OgWoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBxh/KpwXGmrLtHNIySBoBIIz+GQ8JJOg0OPZx60lo/raN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
