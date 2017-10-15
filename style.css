@@ -96,8 +96,8 @@ section#profiles ul li a {
 }
 section#profiles ul li a:hover,
 section#profiles ul li a:focus {
-  color: #fcaf3e;
-  text-shadow: 0 0 0.1em #fcaf3e;
+  color: #53d2fc;
+  text-shadow: 0 0 1px #53d2fc;
 }
 
 section h2 {
