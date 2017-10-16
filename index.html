@@ -41,23 +41,24 @@
   <section id="projects" class="clearfix">
     <h2>Projects</h2>
     <p>This is only a selection, you can find more projects on my <a href="https://github.com/ThomasWeinert" class="icon-github" title="Github">GitHub</a> account.</p>
+    <h3><a href="https://github.com/FluentDOM/FluentDOM">FluentDOM</a></h3>
+    <p>
+      An XML library for PHP. It extends the included DOM, XMLReader, XMLWriter classes. DOM LS features are added as well as improved
+      namespace handling and workaround for bugs in PHP.  Additionally an jQuery style API, and import/export for different formats are
+      provided.
+    </p>
     <h3>
       Carica
-      <a href="https://bitbucket.org/ThomasWeinert/carica-io">Io</a>,
-      <a href="https://bitbucket.org/ThomasWeinert/carica-firmata">Firmata</a>,
-      <a href="https://bitbucket.org/ThomasWeinert/carica-chip">Chip</a>
+      <a href="https://github.com/ThomasWeinert/carica-io">Io</a>,
+      <a href="https://github.com/ThomasWeinert/carica-firmata">Firmata</a>,
+      <a href="https://github.com/ThomasWeinert/carica-gpio">Gpio</a>,
+      <a href="https://github.com/ThomasWeinert/carica-chip">Chip</a>
     </h3>
     <p>
       <img src="images/carica-leaf.svg" alt="" width="80" height="80" style="float: right; margin: 0 0 1em 1em;"/>
-      Three projects that allow to control an Arduino from PHP. Carica Io provides the needed Non-Blocking I/O
-      libraries. Carica Firmata implements the communication protocol and an OOP API for the pins. Carica Chip
-      is a set of device classes, like a class "Motor" with a method "setSpeed()".
-    </p>
-    <h3>Carica <a href="https://bitbucket.org/ThomasWeinert/carica-status-monitor">Status Monitor</a></h3>
-    <p>
-      Basically an Atom-Reader implemented in Javascript and a small framework to provide the feeds in PHP. It
-      allows you to set up a wall monitor with data about your company. At dimensional we use it to show the build
-      status of projects, latest commits, upcoming launches and other stuff near the coffee machine.
+      Four projects that allow to control an Arduino/RaspberryPi from PHP. Carica Io provides the needed Non-Blocking I/O
+      libraries. Carica Firmata implements the communication protocol and an OOP API for the pins. Carica GPIO allows access to
+      the GPIO pins on the Raspberry PI. Carica Chip is a set of device classes, like a class "RGBLed" with a method "fadeTo($color)".
     </p>
     <h3>Weaverslave</h3>
     <p>
@@ -71,7 +72,7 @@
     </p>
   </section>
   <footer>
-    Copyright 2013 Thomas Weinert
+    Copyright 2017 Thomas Weinert
   </footer>
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
