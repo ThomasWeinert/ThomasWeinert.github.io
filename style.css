@@ -12,13 +12,13 @@ a {
 header, footer, section {
   min-width: 450px;
   max-width: 760px;
-  border: 1px solid black;
   margin: 0 auto 0 auto;
 }
 
 header, footer {
+  border: 1px solid #000;
   color: rgba(255, 255, 255, 0.8);
-  background: black;
+  background: #000;
   background: linear-gradient(rgba(40, 40, 40, 1), rgba(0, 0, 0, 1));
 }
 header {
@@ -82,12 +82,13 @@ section#profiles {
 section#profiles ul {
   margin: 2.5em auto 1em auto;
   padding: 0;
-  display: block;
+  display: flex;
   text-align: center;
-}
-section#profiles ul li {
-  padding: 0.4em;
-  display: inline-block;
+  gap: 1em;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
 }
 section#profiles ul li a {
   text-decoration: none;
@@ -140,9 +141,54 @@ section#slides h2 {
   border-left: 4px solid #75507b;
 }
 
+.icon-github {
+  --icon-url: url("./images/icons/github.svg");
+}
+.icon-twitter {
+  --icon-url: url("./images/icons/twitter.svg");
+}
+.icon-mastodon {
+  --icon-url: url("./images/icons/mastodon.svg");
+}
+.icon-amazon {
+  --icon-url: url("./images/icons/amazon.svg");
+}
+.icon-blogger {
+  --icon-url: url("./images/icons/blog-solid.svg");
+}
+.icon-speakerdeck {
+  --icon-url: url("./images/icons/presentation-play.svg");
+}
+.icon-linkedin {
+  --icon-url: url("./images/icons/linkedin.svg");
+}
+.icon-xing {
+  --icon-url: url("./images/icons/xing.svg");
+}
+.icon-download {
+  --icon-url: url("./images/icons/cloud-download.svg");
+}
+.icon-box {
+  --icon-url: url("./images/icons/package-down.svg");
+}
+
 [class^="icon-"]:before, [class*=" icon-"]:before {
+  content: ' ';
   text-decoration: none;
   padding-right: 0.1em;
+  background-color: currentColor;
+  -webkit-mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  -webkit-mask-image: var(--icon-url);
+  mask-position: center;
+  mask-repeat: no-repeat;
+  mask-size: contain;
+  mask-image: var(--icon-url);
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: middle;
 }
 
 .clearfix:before,
